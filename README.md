@@ -34,7 +34,7 @@ Windows/Linux:
 FreeBASIC - https://github.com/freebasic/fbc
 
 ```
-fbc oregon.bas
+fbc64 -lang qb oregon.bas
 ```
 
 MacOS:
