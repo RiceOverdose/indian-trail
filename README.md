@@ -1,4 +1,4 @@
-Oregon Trail
+Indian Trail
 ============
 
 The original Oregon Trail. Painstakingly copied by hand from the May 1978
